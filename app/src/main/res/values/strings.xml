@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">android-lab1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="facebook_app_id">586023904403703</string>
+    <string name="facebook_client_token">ec908c77c652ed5e09f6a8decf622b7f</string>
+
+    <string name="hello_blank_fragment">TEST</string>
+    <string name="share_image_to_instagram_stories">Share image to Instagram Stories</string>
+    <string name="music_player">Music Player</string>
+    <string name="airplane_mode_toggle">Airplane Mode Toggle</string>
+    <string name="see_upcoming_events">See upcoming events</string>
+</resources>
